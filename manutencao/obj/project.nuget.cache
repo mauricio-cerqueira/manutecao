@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O4i5vvwBQyatQnhhEXXHgcV/RdPd2Op6BrSYrS9Mmzd1r2DzsAqi91fX/YyrseC1TmQVYsb0GIcsU8hU6cmbdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\falem\\Source\\Repos\\manutecao\\manutencao\\manutencao.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\falem\\.nuget\\packages\\fsharp.core\\6.0.6\\fsharp.core.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
